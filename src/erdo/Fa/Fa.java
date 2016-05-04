@@ -10,6 +10,9 @@ package erdo.Fa;
  * @author npallag
  */
 public abstract class Fa {
-    
+
+    public boolean isGyumolcs() {
+        return false;
+    }
     
 }
